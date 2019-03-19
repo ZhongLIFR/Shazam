@@ -11,4 +11,5 @@ Drawing on the methods described in "An Industrial Strength Audio Search Algorit
 https://willdrevo.com/fingerprinting-and-audio-recognition-with-python/
 
 #Article 2
+
 http://coding-geek.com/how-shazam-works/
